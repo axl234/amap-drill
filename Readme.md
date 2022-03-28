@@ -9,12 +9,12 @@
 - antv区域钻取
 
 [https://l7.antv.vision/zh/examples/choropleth/drill#order-drill](https://l7.antv.vision/zh/examples/choropleth/drill#order-drill)
-![antv-under.gif](https://cdn.nlark.com/yuque/0/2022/gif/1088766/1648279616874-90baf239-4a17-4ce6-9159-8b626ddca99e.gif#clientId=u13ed54da-5f5d-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=u26a55df4&margin=%5Bobject%20Object%5D&name=antv-under.gif&originHeight=791&originWidth=1044&originalType=binary&ratio=1&rotation=0&showTitle=false&size=987046&status=done&style=none&taskId=ued48b8d5-0870-45bb-9779-80bfa58f996&title=)
+![antv-under.gif](https://cdn.nlark.com/yuque/0/2022/gif/1088766/1648279616874-90baf239-4a17-4ce6-9159-8b626ddca99e.gif)
 
 - 高德区域钻取
 
 [https://lbs.amap.com/demo/amap-ui/demos/amap-ui-districtexplorer/index](https://lbs.amap.com/demo/amap-ui/demos/amap-ui-districtexplorer/index)
-![gaode-under.gif](https://cdn.nlark.com/yuque/0/2022/gif/1088766/1648279600131-ee5dcb56-44ba-408f-ad65-363ff5bbd93e.gif#clientId=u13ed54da-5f5d-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=ua3d7ecf5&margin=%5Bobject%20Object%5D&name=gaode-under.gif&originHeight=877&originWidth=1156&originalType=binary&ratio=1&rotation=0&showTitle=false&size=4618143&status=done&style=none&taskId=ufa02223d-4390-44c4-80c1-7c4add13e75&title=)
+![gaode-under.gif](https://cdn.nlark.com/yuque/0/2022/gif/1088766/1648279600131-ee5dcb56-44ba-408f-ad65-363ff5bbd93e.gif)
 
 上面是关于正常的省市区的一个地图下钻，现成的地图或者组件可以实现，
 但是如果遇到自定义的地图层级钻取就哑火了
@@ -23,7 +23,7 @@
 
 先来看一下最终效果
 
-![gaode-under-custom-min.gif](https://cdn.nlark.com/yuque/0/2022/gif/1088766/1648277926548-c523e31c-6577-4f39-81df-82490324bf8b.gif#clientId=u13ed54da-5f5d-4&crop=0&crop=0&crop=1&crop=1&from=drop&id=ud795d17e&margin=%5Bobject%20Object%5D&name=gaode-under-custom-min.gif&originHeight=839&originWidth=1284&originalType=binary&ratio=1&rotation=0&showTitle=false&size=7592160&status=done&style=none&taskId=u7dd4a19a-ec0b-43cb-9190-328dca4b6b3&title=)
+![gaode-under-custom-min.gif](https://cdn.nlark.com/yuque/0/2022/gif/1088766/1648277926548-c523e31c-6577-4f39-81df-82490324bf8b.gif)
 
 如图，最终我们要实现科室、部门、经销商的三级钻取，类似我们所说的大区下钻；
 
